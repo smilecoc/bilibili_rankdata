@@ -1,2 +1,2 @@
 # bilibili_rankdata
-bilibili rank data
+B站的每日排行榜爬虫
